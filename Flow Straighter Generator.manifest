@@ -1,0 +1,9 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "com.philippounds.flowstraightenergenerator",
+  "author": "Philip Pounds",
+  "version": "1.1.0",
+  "description": "Creates a circular flow straightener with hex-packed holes via a single dialog.",
+  "supportedOS": "windows|mac"
+}
